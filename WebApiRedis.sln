@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiRedis", "WebApiRedis\WebApiRedis.csproj", "{72E2C825-FA31-4153-9BE7-143AFFC46DA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E2C825-FA31-4153-9BE7-143AFFC46DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E2C825-FA31-4153-9BE7-143AFFC46DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E2C825-FA31-4153-9BE7-143AFFC46DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E2C825-FA31-4153-9BE7-143AFFC46DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4FA8319-84FF-46A1-8B55-DAE32C8C3A1E}
+	EndGlobalSection
+EndGlobal
