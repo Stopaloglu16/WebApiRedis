@@ -52,7 +52,7 @@ Creating controller which contains GET, PUT, Delete methods
 ## Finalize
 The project contains for saving data as single string and class/object mode
 
-A little confusing, after calling function to save string successfully and checking from Docker console the type, it saves as **hash** type.
+A little confusing 🤪, after calling function to save string successfully and checking from Docker console the type, it saves as **hash** type.
 
 https://surfingthecode.com/redis-based-distributed-cache-in-asp.net-core/
 https://learn.microsoft.com/en-us/aspnet/core/performance/caching/distributed?view=aspnetcore-3.1#distributed-redis-cache-1
